@@ -1,0 +1,87 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2041,5): warning MSB3245: Не удалось разрешить данную ссылку. Не удалось обнаружить сборку "OpenTK". Убедитесь, что сборка существует на диске. Если данная ссылка требуется в коде, это может вызвать ошибки компиляции.
+  MyForm.cpp
+c:\users\asus\source\repos\form\form\MyForm.h(15): error C2039: Graphics: не является членом "OpenTK"
+c:\users\asus\source\repos\form\form\MyForm.h(15): error C2871: Graphics: пространство имен с таким именем не существует
+c:\users\asus\source\repos\form\form\MyForm.h(16): error C2039: Windows: не является членом "OpenTK::Platform"
+c:\users\asus\source\repos\form\form\MyForm.h(17): error C2039: Graphics: не является членом "OpenTK"
+c:\users\asus\source\repos\form\form\MyForm.h(17): error C3083: Graphics: символ слева от "::" должен представлять тип
+c:\users\asus\source\repos\form\form\MyForm.h(17): error C2039: OpenGL: не является членом "OpenTK"
+c:\users\asus\source\repos\form\form\MyForm.h(17): error C2871: OpenGL: пространство имен с таким именем не существует
+c:\users\asus\source\repos\form\form\MyForm.h(1239): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1239): error C2653: MatrixMode: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1239): error C2065: Projection: необъявленный идентификатор
+c:\users\asus\source\repos\form\form\MyForm.h(1239): error C3861: MatrixMode: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1240): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1240): error C3861: LoadIdentity: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1241): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1241): error C3861: Viewport: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1242): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1242): error C2653: ClearBufferMask: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1242): error C2065: ColorBufferBit: необъявленный идентификатор
+c:\users\asus\source\repos\form\form\MyForm.h(1242): error C2065: DepthBufferBit: необъявленный идентификатор
+c:\users\asus\source\repos\form\form\MyForm.h(1242): error C3861: Clear: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1244): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1244): error C2653: MatrixMode: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1244): error C2065: Projection: необъявленный идентификатор
+c:\users\asus\source\repos\form\form\MyForm.h(1244): error C3861: MatrixMode: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1245): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1245): error C3861: LoadIdentity: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1246): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1246): error C3861: Frustum: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1247): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1247): error C3861: Translate: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1248): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1248): error C3861: Rotate: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1249): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1249): error C3861: ClearColor: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1252): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1252): error C3861: Color3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1253): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1253): error C2653: BeginMode: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1253): error C2065: Lines: необъявленный идентификатор
+c:\users\asus\source\repos\form\form\MyForm.h(1253): error C3861: Begin: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1255): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1255): error C3861: Vertex3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1256): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1256): error C3861: Vertex3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1260): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1260): error C3861: Vertex3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1261): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1261): error C3861: Vertex3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1263): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1263): error C3861: End: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1277): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\asus\source\repos\form\form\MyForm.h(1291): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1291): error C3861: PointSize: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1292): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1292): error C2653: BeginMode: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1292): error C2065: Lines: необъявленный идентификатор
+c:\users\asus\source\repos\form\form\MyForm.h(1292): error C3861: Begin: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1293): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1293): error C3861: Color3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1294): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1294): error C3861: Vertex3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1295): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1295): error C3861: Vertex3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1296): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1296): error C3861: End: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1301): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1301): error C3861: PointSize: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1302): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1302): error C2653: BeginMode: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1302): error C2065: Points: необъявленный идентификатор
+c:\users\asus\source\repos\form\form\MyForm.h(1302): error C3861: Begin: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1303): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1303): error C3861: Color3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1304): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1304): error C3861: Vertex3: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1305): error C2653: GL: не является именем класса или пространства имен
+c:\users\asus\source\repos\form\form\MyForm.h(1305): error C3861: End: идентификатор не найден
+c:\users\asus\source\repos\form\form\MyForm.h(1599): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\asus\source\repos\form\form\MyForm.h(1608): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\asus\source\repos\form\form\MyForm.h(1616): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\asus\source\repos\form\form\MyForm.h(1624): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\asus\source\repos\form\form\MyForm.h(1632): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\asus\source\repos\form\form\MyForm.h(1640): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\asus\source\repos\form\form\MyForm.h(1648): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\asus\source\repos\form\form\MyForm.h(1656): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
